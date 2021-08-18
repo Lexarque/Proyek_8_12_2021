@@ -1,0 +1,23 @@
+div.content {
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    float: none;
+    padding-top: 75px;
+    height: auto;
+}
+div.content img{
+    width: 200px;
+    height: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.content p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text-middle {
+    padding-left: 530px;
+    font-size: large;
+}
+
+
